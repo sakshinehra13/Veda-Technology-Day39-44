@@ -1,0 +1,42 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "amount": 50.75,
+            "date": "2026-10-06",
+            "category": "Food",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "amount": 50.75,
+            "date": "2026-10-06",
+            "category": "Travel",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "amount": 100.95,
+            "date": "2026-10-06",
+            "category": "Travel",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "amount": 345.5,
+            "date": "2026-10-06",
+            "category": "Entertainment",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "amount": 133.33,
+            "date": "2026-10-05",
+            "category": "Shopping",
+            "description": ""
+        }
+    ],
+    "budgets": {
+        "2026-10": 1000.0
+    }
+}
